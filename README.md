@@ -8,7 +8,7 @@
 ---
 
 * 🔭 **I'm currently a CAARE 2026 Candidate in AI & Robotics**
-* 🤝 **All of my projects are available at:** [Your Linktree or Portfolio Link]
+* 🤝 **All of my projects are available at:**
 * ⚡ **Fun fact:** I am actively learning about Multi-Agent Systems, Native & Humanoid AI Building, and robo development. 🤖
 
 <h3 align="left">Connect with me:</h3>
